@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2023-01-09T14:55:56.4724735Z;True|2022-11-27T17:51:56.3691009-05:00;True|2022-11-27T17:24:07.6820581-05:00;True|2022-11-24T06:48:52.3126574-05:00;True|2022-11-24T06:25:04.0043407-05:00;True|2022-11-24T06:22:19.7629798-05:00;True|2022-11-24T06:16:38.6680022-05:00;True|2022-11-24T06:10:52.2002643-05:00;True|2022-11-24T05:13:54.9456350-05:00;False|2022-11-24T05:13:02.3885714-05:00;</History>
+    <LastFailureDetails>
+    </LastFailureDetails>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiYMlpZ7xaEmJHTLrcu0o7wAAAAACAAAAAAAQZgAAAAEAACAAAACMxzG8S75sug0W6i1RH2zKTrEXVEcoJLzyF0EG/3HpkAAAAAAOgAAAAAIAACAAAABiPwFJwYEL568w7sLdy9PIEOqhkvngpFOGnAt9GBXfuYAAAAD5/3SHTj4g21rEg76D0QFghYv6Y5iat40vakANZWWFOHzOOe6StmqhsTtbs5dQebioLBJnx+mygRlRt0E/wnCyRpFycbjSP5y2TCfeSRqSrSmQGcH+/fuuKHD3lgKvohU2M1J/ge5nKy0NgTYZHiezG3paO2BCWTYHDs91fHyAdkAAAAA6cqutyIaEPLsseDwxyGP/lLRmDfEHpmNn3UlgAZpB6m1ir3n1g5zCs2HlLW9dkYE2b8QrfZCjJ9v5a+28Qw4h</EncryptedPassword>
+  </PropertyGroup>
+</Project>
