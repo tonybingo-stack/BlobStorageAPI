@@ -1,3 +1,4 @@
 .vs
-./BlobStorageAPI/bin
-./BlobStorageAPI/obj
+
+BlobStorageAPI\bin
+BlobStorageAPI\obj
